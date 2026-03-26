@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "096702a1936e38b0594bac42b59e6214"
 
 @st.cache_data(ttl=60)
 def get_odds():
